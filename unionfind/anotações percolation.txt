@@ -1,0 +1,5 @@
+Fullsite - significa qualquer elemento da matriz que pode ser conectado à linha de cima(utilizar o virtualTopRow para isso)
+Percolates - Qualquer elemento da matriz da última linha que pode ser conectado a um elemento aberto na primeira linha
+(verificar se o virtualTopRow está conectado com o virtualBottomRow)
+
+	

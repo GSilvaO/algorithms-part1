@@ -1,0 +1,5 @@
+- Sempre que uma amizade é feita um log é gerado
+
+- O problema envolve fazer com que o count seja igual a 1, ou seja,
+todo mundo conectado
+ -- A partir do count = 1, armazenar qual foi o log que gerou este resultado

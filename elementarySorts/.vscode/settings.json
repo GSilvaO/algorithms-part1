@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Programming\\algo1\\programmingAssignments\\percolation\\algs4.jar"
+    ]
+}
