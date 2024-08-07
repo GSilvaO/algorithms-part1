@@ -11,6 +11,9 @@
  * 
  */
 
+ // refactor this algorithm to abstract the timestamp to an int that will be incremented
+ // on each union command. The method returnEarliestTimestamp(which the name should be also
+ // refactored) will return -1 in case of the count variable differs from 1
 public class SocialNetwork {
     private WeightedQuickUnion weightedQuickUnion;
     private String m = "timestamp";
